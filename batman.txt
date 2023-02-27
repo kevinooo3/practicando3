@@ -2,3 +2,4 @@ hola soy bataman tengo 15 years.
 gustos: me gusta la noche para tonear como se debe.
 comida: le gusta arroz a la cubana
 idiomas : batman habla ingles español y algo de quechua
+secondary:agregado del secondary mano
